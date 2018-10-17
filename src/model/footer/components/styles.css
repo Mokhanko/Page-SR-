@@ -1,0 +1,11 @@
+.footer{
+    display: flex;
+
+
+    margin-top:10px;
+    border:1px solid white;
+}
+.list{
+    align-self:stretch;
+    border:1px solid yellow;
+}

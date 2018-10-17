@@ -1,0 +1,8 @@
+.body{
+    margin-top:30px;
+    height:890px;
+    border:1px solid white;
+    background: white;
+    display:flex;
+    flex-direction: column;
+}
